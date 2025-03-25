@@ -1,0 +1,16 @@
+Embedding Analysis for finetuned model exp1
+==================================================
+Number of embeddings: 172
+Embedding dimension: 512
+
+Average intra-class distance: 26.2002
+Average inter-class distance: 16.9644
+Ratio (inter/intra): 0.6475
+
+Per-class intra-class distances:
+Class 0: 27.8447
+Class 1: 25.9614
+Class 2: 25.7139
+Class 3: 25.0963
+Class 4: 27.2814
+Class 5: 25.3037
